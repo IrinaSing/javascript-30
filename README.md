@@ -31,7 +31,7 @@ Each time you finish one of these projects, check it off (`- [x]`) and provide a
 - [x] 01 - [drum kit](https://github.com/IrinaSing/JavaScript-Drum-Kit)
 - [ ] 02 - [clock]()
 - [x] 03 - [css variables](https://github.com/IrinaSing/CSS-Variables)
-- [ ] 05 - [flex panel gallery]()
+- [x] 05 - [flex panel gallery](https://github.com/IrinaSing/Flex-Panel-Gallery)
 - [ ] 06 - [type ahead]()
 - [ ] 08 - [fun with html5 canvas]()
 - [ ] 10 - [Hold Shift and Check Checkboxes]()
