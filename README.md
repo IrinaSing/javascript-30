@@ -29,7 +29,7 @@ JS 30 Projects are complete websites with full user interactions. To practice se
 Each time you finish one of these projects, check it off (`- [x]`) and provide a link to your refactored project. If you completed it as a group project you can link to the repository.
 
 - [x] 01 - [drum kit](https://github.com/IrinaSing/JavaScript-Drum-Kit)
-- [ ] 02 - [clock]()
+- [x] 02 - [clock](https://github.com/IrinaSing/Clock)
 - [x] 03 - [css variables](https://github.com/IrinaSing/CSS-Variables)
 - [x] 05 - [flex panel gallery](https://github.com/IrinaSing/Flex-Panel-Gallery)
 - [ ] 06 - [type ahead]()
