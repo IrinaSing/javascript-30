@@ -33,7 +33,7 @@ Each time you finish one of these projects, check it off (`- [x]`) and provide a
 - [x] 03 - [css variables](https://github.com/IrinaSing/CSS-Variables)
 - [x] 05 - [flex panel gallery](https://github.com/IrinaSing/Flex-Panel-Gallery)
 - [ ] 06 - [type ahead]()
-- [x] 08 - [fun with html5 canvas]()
+- [x] 08 - [fun with html5 canvas](https://github.com/IrinaSing/Fun-with-HTML5-Canvas)
 - [ ] 10 - [Hold Shift and Check Checkboxes]()
 - [ ] 11 - [Custom Video Player]()
 - [ ] 12 - [Key Sequence Detection]()
