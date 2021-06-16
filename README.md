@@ -37,7 +37,7 @@ Each time you finish one of these projects, check it off (`- [x]`) and provide a
 - [x] 10 - [Hold Shift and Check Checkboxes](https://github.com/IrinaSing/Hold-Shift-and-Check-Checkboxes)
 - [ ] 11 - [Custom Video Player]()
 - [ ] 12 - [Key Sequence Detection]()
-- [ ] 13 - [Slide in on a Scroll]()
+- [x] 13 - [Slide in on a Scroll]()
 - [ ] 15 - [LocalStorage]()
 - [ ] 16 - [Mouse Move Shadow]()
 - [ ] 17 - [Sort Without Articles]()
